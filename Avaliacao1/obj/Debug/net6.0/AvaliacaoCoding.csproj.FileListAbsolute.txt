@@ -1,0 +1,15 @@
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\bin\Debug\net6.0\AvaliacaoCoding.exe
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\bin\Debug\net6.0\AvaliacaoCoding.deps.json
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\bin\Debug\net6.0\AvaliacaoCoding.runtimeconfig.json
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\bin\Debug\net6.0\AvaliacaoCoding.dll
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\bin\Debug\net6.0\AvaliacaoCoding.pdb
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\obj\Debug\net6.0\AvaliacaoCoding.csproj.AssemblyReference.cache
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\obj\Debug\net6.0\AvaliacaoCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\obj\Debug\net6.0\AvaliacaoCoding.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\obj\Debug\net6.0\AvaliacaoCoding.AssemblyInfo.cs
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\obj\Debug\net6.0\AvaliacaoCoding.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\obj\Debug\net6.0\AvaliacaoCoding.dll
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\obj\Debug\net6.0\refint\AvaliacaoCoding.dll
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\obj\Debug\net6.0\AvaliacaoCoding.pdb
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\obj\Debug\net6.0\AvaliacaoCoding.genruntimeconfig.cache
+C:\Users\POSITIVO\Documents\AvaliacaoCoding\obj\Debug\net6.0\ref\AvaliacaoCoding.dll
